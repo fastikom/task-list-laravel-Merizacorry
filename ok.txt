@@ -1,0 +1,30 @@
+link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+
+<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+
+<link href="/templates/zt_morga17/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+<link href="http://www.prolocotemu.net/component/search/?format=opensearch" rel="search" title="Vai Pro Loco Temù" type="application/opensearchdescription+xml">
+
+<link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
+
+<link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/templates/zt_morga17/zt_menus/zt_megamenu/zt.megamenu.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/templates/system/css/system.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/templates/system/css/general.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/templates/zt_morga17/css/default.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/templates/zt_morga17/css/template.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/templates/zt_morga17/css/typo.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/modules/mod_zt_headline/assets/css/zt_boro.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.prolocotemu.net/templates/zt_morga17/css/css3.php?url=http://www.prolocotemu.net/templates/zt_morga17/" type="text/css">
+
+<link href="http://www.prolocotemu.net/templates/zt_morga17//css/colors/blue.css" rel="stylesheet" type="text/css">
+

@@ -1,0 +1,88 @@
+body{ margin:0px; padding:0px; }
+img{ vertical-align:middle }
+#widgeonet_div_last_visits2 ul {
+    list-style-type:none;
+    margin:0;
+    padding:2px 2px 2px 4px;
+}
+#widgeonet_div_last_visits2{
+	background:url("http://cdnovh.widgeo.net/geocompteur/img/tmp/geocity_blue1.png");
+	width:164px;
+	height:314px;
+}
+.widgeonet_div_last_visits2_today {
+	clear: both;
+	width:164px;
+	font: normal 13px 'Open Sans', sans-serif;
+	margin:50px 0;
+	padding:7px 0 10px 0px;
+	color:#fff;
+	}
+.spyWrapper{ padding-top:2px }
+#spywidgeonet {
+	cursor:pointer;
+	width:156px;
+	height:306px;
+}
+li.widgeonet_div_last_visits2_item {
+	clear:both;
+	font: normal 12px 'Open Sans', sans-serif;
+	color:#fff;
+	padding:2px 5px 6px 5px;
+	border-bottom:1px dotted #fff;
+	height:18px !important;
+	max-height:18px !important;
+}
+div.widgeonet_div_last_visits2_subitem {
+	background:#f9f9f9; padding:2px; height:41px; overflow: hidden; width:100%
+}
+#swf{
+	z-index:0;
+	position:absolute;
+        opacity: 1;
+        width:36px;
+        height:36px;
+        filter: alpha(opacity=100);
+	top:262px;
+	left:62px;
+        background:transparent url("http://www.widgeo.net/geocompteur/images/earth.png");
+}
+
+#lien_div{ 
+    clear:both; 
+    text-align:center; 
+    border-top:1px dotted #fff; 
+    margin:5px;
+    padding-top:4px;
+    width:94%;
+}
+#lien_div a{
+	font:normal 12px 'Open Sans', sans-serif;
+	color:#fff;
+        text-decoration:none;
+}
+.tooltip {
+        background:transparent url("http://cdnovh.widgeo.net/geocompteur/css/black_arrow.png");
+        display:none; font:bold 12px 'Open Sans', sans-serif; height:65px; width:130px; padding:13px; color:#fff;
+}
+.effect3{
+    box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+} 
+.blink {
+    animation-duration: 1s;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    font-size: 14px
+    
+}
+@keyframes blink {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;                    
+    }
+}
